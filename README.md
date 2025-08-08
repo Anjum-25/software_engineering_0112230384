@@ -1,4 +1,4 @@
-Transit Ease
+
 Transit Ease is a user-friendly transportation booking system designed to make traveling easier and more convenient. It allows users to book bus and metro tickets online, view available routes, and find the shortest and fastest paths to their destinations.
 
 Key features include:
