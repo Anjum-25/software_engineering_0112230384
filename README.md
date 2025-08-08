@@ -1,14 +1,16 @@
-Process Models:
+Transit Ease
+Transit Ease is a user-friendly transportation booking system designed to make traveling easier and more convenient. It allows users to book bus and metro tickets online, view available routes, and find the shortest and fastest paths to their destinations.
 
-1.Sdlc
+Key features include:
 
-2.Waterfall model
+Easy online booking of bus and metro tickets.
 
-3.Incremental SDLC model
+Route suggestions with shortest path calculations.
 
-4.RAD
+QR code generation for hassle-free ticket verification.
 
-5.Prototyping Model
+User profiles to manage bookings and travel history.
 
-6.Spiral Model
+Integration with maps for real-time route visualization.
 
+With Transit Ease, commuters can save time, avoid queues, and enjoy a smoother travel experience
